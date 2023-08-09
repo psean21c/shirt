@@ -1,4 +1,10 @@
+
+/********************************
+1) git push -u origin master
+********************************/
+ >> This command line only works when token was generated first time
 Enter the generated token in github : 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
+Enter the generated token in github : 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
 
 (base) Simons-MacBook-Air:shirt simonpark$ git push -u origin master
 Username for 'https://github.com': psean21c@gmail.com
