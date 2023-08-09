@@ -15,3 +15,20 @@ Total 3 (delta 0), reused 0 (delta 0)
 To https://github.com/psean21c/shirt.git
  * [new branch]      master -> master
 Branch master set up to track remote branch master from origin.
+
+/********************************
+2) git push origin master
+/********************************
+(base) Simons-MacBook-Air:shirt simonpark$ git add lab_log1.txt 
+(base) Simons-MacBook-Air:shirt simonpark$ git commit -m "git push -u origin master"
+[master ca9c938] git push -u origin master
+ 1 file changed, 6 insertions(+)
+(base) Simons-MacBook-Air:shirt simonpark$ git push origin master
+Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 414 bytes | 207.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/psean21c/shirt.git
+   67a8fda..ca9c938  master -> master
