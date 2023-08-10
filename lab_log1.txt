@@ -5,6 +5,7 @@
  >> This command line only works when token was generated first time
 Enter the generated token in github : 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
 Enter the generated token in github : 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
+Enter the generated token in github : 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
 
 (base) Simons-MacBook-Air:shirt simonpark$ git push -u origin master
 Username for 'https://github.com': psean21c@gmail.com
@@ -32,3 +33,6 @@ Total 3 (delta 2), reused 0 (delta 0)
 remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
 To https://github.com/psean21c/shirt.git
    67a8fda..ca9c938  master -> master
+
+3) git clone https://github.com/psean21c/shirt.git
+
