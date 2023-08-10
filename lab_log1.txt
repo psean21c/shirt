@@ -4,6 +4,7 @@
 ********************************/
  >> This command line only works when token was generated first time
 Enter the generated token in github : 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
+Enter the generated token in github : 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
 
 (base) Simons-MacBook-Air:shirt simonpark$ git push -u origin master
 Username for 'https://github.com': psean21c@gmail.com
