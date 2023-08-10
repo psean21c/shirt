@@ -3,11 +3,15 @@ git command CLI
 1) Create gitHub and connect a local .git to the gitHub repository
  $ git init
  => On gitHub, create a new git repository with the same name
- $ git add file.txt
- $ git commit -m "blah~"
+ $ git remote add origin https://github.com/psean21c/shirt.git
+ $ git remote -v
  $ git push -u origin master
 
 2) Make a change on local and sync (using push command) with he gitHub repository
+
+ $ git add file.txt
+ $ git commit -m "blah~"
+ $ git push -u origin master
 
 3) Resolve the delta (the difference between a local and remote repository) and Sync
 
