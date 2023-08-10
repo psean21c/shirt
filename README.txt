@@ -20,3 +20,9 @@ git command CLI
 5) Other command
  $ git status
  $ git log --oneline -all # see HEAD change & changed branch
+
+6) PR (Pull Request) & rebase (재배치)
+  PR : 
+  https://docs.github.com/pull-requests (official site)
+  https://blog.naver.com/islove8587/223179197496 (good diagram)
+  rebase : Reapply commits on top of another base tip
